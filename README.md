@@ -4,18 +4,20 @@
 
 + 截止期限：2016年2月28日
 
-+ 提交方式：在github上管理项目，在HCIFE的hcife-task<https://github.com/hcife/hcife-task>处将项目地址提交到issue
++ 提交方式：在github上管理项目，在HCIFE的[hcife-task](https://github.com/hcife/hcife-task)处将项目地址提交到issue
 
-![](hcife-task.png)
-![](hcife-task1.png)
-![](hcife-task2.png)
+![](https://github.com/hcife/hcife-task/raw/master/hcife-task.png)
+![](https://github.com/hcife/hcife-task/raw/master/hcife-task1.png)
+![](https://github.com/hcife/hcife-task/raw/master/hcife-task2.png)
 
 
 ### js插件
 
-+ 静态资源如js,css,图片等资源的js加载器
++ 静态资源如js,css,图片等资源的js打包加载器
 
 + 可参考[Tiny-Loader.js](https://github.com/youzan/tiny-loader.js),[headjs](https://github.com/headjs/headjs)
+
++ 打包可参考[webpack](http://webpack.github.io)
 
 + 纯js书写，不允许使用任何库
 
